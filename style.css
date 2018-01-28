@@ -1,0 +1,19 @@
+.grey-strip {
+    background-color: grey;
+    margin-left: -1000px;
+    margin-right: -1000px;
+    padding: 50px;
+    color: white;
+  }
+  #left-column {
+    float: left;
+    margin-left: 1000px;
+  }
+  #right-column {
+    float: right;
+    margin-right: 1000px;
+  }
+  </style>
+    
+  
+ 
