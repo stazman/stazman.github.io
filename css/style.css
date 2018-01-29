@@ -1,9 +1,9 @@
-#colorstrip{
+/* #colorstrip{
   width: 100%; height: 20px;
   border-style: solid;
   border-color: blue;
   background-color: white;
-}
+} */
 
 /*
 .blue-strip {
@@ -16,7 +16,7 @@
   */
 
   
-  #left-column {
+  /* #left-column {
     float: left;
     font-size: 20px;
     margin-left: 1000px;
@@ -24,4 +24,4 @@
   #right-column {
     float: right;
     margin-right: 1000px;
-  }
+  } */
