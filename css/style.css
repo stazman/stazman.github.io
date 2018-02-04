@@ -1,9 +1,8 @@
 
 #background {
     background-color: blue;
-    background-position: top;
+    background-position: top 10px;
     font-color: white;
-    margin-top: 25px;
 }
 
 #blog_title {
