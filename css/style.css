@@ -1,8 +1,9 @@
 
 #background {
-    background-color: blue;
+    background: url("pink_sunset");
     background-position: top 10px;
-    font-color: white;
+    color: white;
+    background-size: auto;
 }
 
 #blog_title {
