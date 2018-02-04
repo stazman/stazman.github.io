@@ -1,11 +1,12 @@
 
 #background {
     background-color: blue;
+    background-position: top;
+    font-color: white;
 }
 
 #blog_title {
   font-size: 14em;
-  line-height: 1.5em;
 }
 
 #name {
