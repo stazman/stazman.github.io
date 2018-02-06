@@ -5,8 +5,8 @@ body {
 }
 
 #blog_title {
-  background: url("images/pink_sunset");
-  font-size: 14em;
+  background-image: url("images/pink_sunset");
+  font-size: 8em;
   color: red;
 }
 
