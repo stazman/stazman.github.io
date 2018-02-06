@@ -1,13 +1,14 @@
 
 #background {
-    background: url("pink_sunset");
     background-position: top 10px;
-    color: white;
-    background-size: auto;
+    color: blue;
+    /* background-size: auto; */
 }
 
 #blog_title {
+  background: url("images/pink_sunset");
   font-size: 14em;
+  color: white;
 }
 
 #name {
