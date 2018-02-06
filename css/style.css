@@ -1,5 +1,5 @@
 
-#background {
+body {
     background-color: blue;
     /* background-size: auto; */
 }
@@ -7,7 +7,7 @@
 #blog_title {
   background: url("images/pink_sunset");
   font-size: 14em;
-  color: white;
+  color: red;
 }
 
 #name {
