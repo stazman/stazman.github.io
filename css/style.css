@@ -1,5 +1,12 @@
 
+body {
+    background-color: rgb(143, 143, 231);
+ }
 
+
+/* div.container {
+      background: url(images/pink_sunset.jpg);
+} */
 
 
 
@@ -8,7 +15,6 @@
 
 /* body {
     /* background-color: rgb(143, 143, 231); */
-    /* background: url(images/pink_sunset.jpg); */
     /* background-size: auto; */
 /* }
 
