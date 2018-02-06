@@ -7,7 +7,7 @@ body {
 #blog_title {
   background-image: url("images/pink_sunset.jpg");
   font-size: 2em;
-  color: red;
+  color: rgb(34, 5, 102);
 }
 
 #name {
