@@ -1,11 +1,11 @@
 
 body {
     background-color: rgb(143, 143, 231);
+    background-image: url("images/pink_sunset.jpg");
     /* background-size: auto; */
 }
 
 #blog_title {
-  background-image: url("images/pink_sunset.jpg");
   font-size: 2em;
   color: rgb(18, 3, 53);
 }
